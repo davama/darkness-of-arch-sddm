@@ -61,7 +61,7 @@ Rectangle {
         /********* Audio *********/
         Audio {
             id: musicPlayer
-            autoLoad: false
+            autoLoad: true
             source: "resources/bgm.ogg"
             loops: -1
         }
