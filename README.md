@@ -15,7 +15,7 @@ Download or clone this repo into
 
 # You can test it with
 
-    sddm-greeter --test --theme /usr/share/sddm/themes/darkness-of-arch-sddm
+    sudo sddm-greeter --test-mode --theme /usr/share/sddm/themes/darkness-of-arch-sddm
 
 # You can change the files
 
