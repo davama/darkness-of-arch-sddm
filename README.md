@@ -1,3 +1,8 @@
+# NOTE:
+
+Some files taken from https://github.com/higgsbosoncodes/Arch-Aurora-Borealis-Startscreen 
+Struggled to get sound working (repo was using pulse) but had no issue with sound with this repo (from Main.qml).
+
 # Darkness Of Arch Theme
 
 An animated sddm theme with music
